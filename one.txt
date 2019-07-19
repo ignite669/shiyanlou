@@ -2,3 +2,4 @@
 git duojialianx
 git 多加练习
 不要熬夜
+复试上机数据库很难
